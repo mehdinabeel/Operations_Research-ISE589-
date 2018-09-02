@@ -1,0 +1,127 @@
+x1)12 ,  (feasible) Zvalue:12
+x2)16 ,  (feasible) Zvalue:16
+x3)19 ,  (feasible) Zvalue:19
+x4)18 ,  (feasible) Zvalue:18
+x5)15 ,  (feasible) Zvalue:15
+x6)9 ,  (feasible) Zvalue:9
+x7)5 ,  (feasible) Zvalue:5
+x1)12 , x2)16 , (infeasible) Zvalue:28
+x1)12 , x3)19 , (infeasible) Zvalue:31
+x1)12 , x4)18 , (infeasible) Zvalue:30
+x1)12 , x5)15 , (infeasible) Zvalue:27
+x1)12 , x6)9 ,  (feasible) Zvalue:21
+x1)12 , x7)5 ,  (feasible) Zvalue:17
+x2)16 , x3)19 , (infeasible) Zvalue:35
+x2)16 , x4)18 , (infeasible) Zvalue:34
+x2)16 , x5)15 , (infeasible) Zvalue:31
+x2)16 , x6)9 , (infeasible) Zvalue:25
+x2)16 , x7)5 ,  (feasible) Zvalue:21
+x3)19 , x4)18 , (infeasible) Zvalue:37
+x3)19 , x5)15 , (infeasible) Zvalue:34
+x3)19 , x6)9 , (infeasible) Zvalue:28
+x3)19 , x7)5 , (infeasible) Zvalue:24
+x4)18 , x5)15 , (infeasible) Zvalue:33
+x4)18 , x6)9 , (infeasible) Zvalue:27
+x4)18 , x7)5 ,  (feasible) Zvalue:23
+x5)15 , x6)9 , (infeasible) Zvalue:24
+x5)15 , x7)5 ,  (feasible) Zvalue:20
+x6)9 , x7)5 ,  (feasible) Zvalue:14
+x1)12 , x2)16 , x3)19 , (infeasible) Zvalue:47
+x1)12 , x2)16 , x4)18 , (infeasible) Zvalue:46
+x1)12 , x2)16 , x5)15 , (infeasible) Zvalue:43
+x1)12 , x2)16 , x6)9 , (infeasible) Zvalue:37
+x1)12 , x2)16 , x7)5 , (infeasible) Zvalue:33
+x1)12 , x3)19 , x4)18 , (infeasible) Zvalue:49
+x1)12 , x3)19 , x5)15 , (infeasible) Zvalue:46
+x1)12 , x3)19 , x6)9 , (infeasible) Zvalue:40
+x1)12 , x3)19 , x7)5 , (infeasible) Zvalue:36
+x1)12 , x4)18 , x5)15 , (infeasible) Zvalue:45
+x1)12 , x4)18 , x6)9 , (infeasible) Zvalue:39
+x1)12 , x4)18 , x7)5 , (infeasible) Zvalue:35
+x1)12 , x5)15 , x6)9 , (infeasible) Zvalue:36
+x1)12 , x5)15 , x7)5 , (infeasible) Zvalue:32
+x1)12 , x6)9 , x7)5 , (infeasible) Zvalue:26
+x2)16 , x3)19 , x4)18 , (infeasible) Zvalue:53
+x2)16 , x3)19 , x5)15 , (infeasible) Zvalue:50
+x2)16 , x3)19 , x6)9 , (infeasible) Zvalue:44
+x2)16 , x3)19 , x7)5 , (infeasible) Zvalue:40
+x2)16 , x4)18 , x5)15 , (infeasible) Zvalue:49
+x2)16 , x4)18 , x6)9 , (infeasible) Zvalue:43
+x2)16 , x4)18 , x7)5 , (infeasible) Zvalue:39
+x2)16 , x5)15 , x6)9 , (infeasible) Zvalue:40
+x2)16 , x5)15 , x7)5 , (infeasible) Zvalue:36
+x2)16 , x6)9 , x7)5 , (infeasible) Zvalue:30
+x3)19 , x4)18 , x5)15 , (infeasible) Zvalue:52
+x3)19 , x4)18 , x6)9 , (infeasible) Zvalue:46
+x3)19 , x4)18 , x7)5 , (infeasible) Zvalue:42
+x3)19 , x5)15 , x6)9 , (infeasible) Zvalue:43
+x3)19 , x5)15 , x7)5 , (infeasible) Zvalue:39
+x3)19 , x6)9 , x7)5 , (infeasible) Zvalue:33
+x4)18 , x5)15 , x6)9 , (infeasible) Zvalue:42
+x4)18 , x5)15 , x7)5 , (infeasible) Zvalue:38
+x4)18 , x6)9 , x7)5 , (infeasible) Zvalue:32
+x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:29
+x1)12 , x2)16 , x3)19 , x4)18 , (infeasible) Zvalue:65
+x1)12 , x2)16 , x3)19 , x5)15 , (infeasible) Zvalue:62
+x1)12 , x2)16 , x3)19 , x6)9 , (infeasible) Zvalue:56
+x1)12 , x2)16 , x3)19 , x7)5 , (infeasible) Zvalue:52
+x1)12 , x2)16 , x4)18 , x5)15 , (infeasible) Zvalue:61
+x1)12 , x2)16 , x4)18 , x6)9 , (infeasible) Zvalue:55
+x1)12 , x2)16 , x4)18 , x7)5 , (infeasible) Zvalue:51
+x1)12 , x2)16 , x5)15 , x6)9 , (infeasible) Zvalue:52
+x1)12 , x2)16 , x5)15 , x7)5 , (infeasible) Zvalue:48
+x1)12 , x2)16 , x6)9 , x7)5 , (infeasible) Zvalue:42
+x1)12 , x3)19 , x4)18 , x5)15 , (infeasible) Zvalue:64
+x1)12 , x3)19 , x4)18 , x6)9 , (infeasible) Zvalue:58
+x1)12 , x3)19 , x4)18 , x7)5 , (infeasible) Zvalue:54
+x1)12 , x3)19 , x5)15 , x6)9 , (infeasible) Zvalue:55
+x1)12 , x3)19 , x5)15 , x7)5 , (infeasible) Zvalue:51
+x1)12 , x3)19 , x6)9 , x7)5 , (infeasible) Zvalue:45
+x1)12 , x4)18 , x5)15 , x6)9 , (infeasible) Zvalue:54
+x1)12 , x4)18 , x5)15 , x7)5 , (infeasible) Zvalue:50
+x1)12 , x4)18 , x6)9 , x7)5 , (infeasible) Zvalue:44
+x1)12 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:41
+x2)16 , x3)19 , x4)18 , x5)15 , (infeasible) Zvalue:68
+x2)16 , x3)19 , x4)18 , x6)9 , (infeasible) Zvalue:62
+x2)16 , x3)19 , x4)18 , x7)5 , (infeasible) Zvalue:58
+x2)16 , x3)19 , x5)15 , x6)9 , (infeasible) Zvalue:59
+x2)16 , x3)19 , x5)15 , x7)5 , (infeasible) Zvalue:55
+x2)16 , x3)19 , x6)9 , x7)5 , (infeasible) Zvalue:49
+x2)16 , x4)18 , x5)15 , x6)9 , (infeasible) Zvalue:58
+x2)16 , x4)18 , x5)15 , x7)5 , (infeasible) Zvalue:54
+x2)16 , x4)18 , x6)9 , x7)5 , (infeasible) Zvalue:48
+x2)16 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:45
+x3)19 , x4)18 , x5)15 , x6)9 , (infeasible) Zvalue:61
+x3)19 , x4)18 , x5)15 , x7)5 , (infeasible) Zvalue:57
+x3)19 , x4)18 , x6)9 , x7)5 , (infeasible) Zvalue:51
+x3)19 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:48
+x4)18 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:47
+x1)12 , x2)16 , x3)19 , x4)18 , x5)15 , (infeasible) Zvalue:80
+x1)12 , x2)16 , x3)19 , x4)18 , x6)9 , (infeasible) Zvalue:74
+x1)12 , x2)16 , x3)19 , x4)18 , x7)5 , (infeasible) Zvalue:70
+x1)12 , x2)16 , x3)19 , x5)15 , x6)9 , (infeasible) Zvalue:71
+x1)12 , x2)16 , x3)19 , x5)15 , x7)5 , (infeasible) Zvalue:67
+x1)12 , x2)16 , x3)19 , x6)9 , x7)5 , (infeasible) Zvalue:61
+x1)12 , x2)16 , x4)18 , x5)15 , x6)9 , (infeasible) Zvalue:70
+x1)12 , x2)16 , x4)18 , x5)15 , x7)5 , (infeasible) Zvalue:66
+x1)12 , x2)16 , x4)18 , x6)9 , x7)5 , (infeasible) Zvalue:60
+x1)12 , x2)16 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:57
+x1)12 , x3)19 , x4)18 , x5)15 , x6)9 , (infeasible) Zvalue:73
+x1)12 , x3)19 , x4)18 , x5)15 , x7)5 , (infeasible) Zvalue:69
+x1)12 , x3)19 , x4)18 , x6)9 , x7)5 , (infeasible) Zvalue:63
+x1)12 , x3)19 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:60
+x1)12 , x4)18 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:59
+x2)16 , x3)19 , x4)18 , x5)15 , x6)9 , (infeasible) Zvalue:77
+x2)16 , x3)19 , x4)18 , x5)15 , x7)5 , (infeasible) Zvalue:73
+x2)16 , x3)19 , x4)18 , x6)9 , x7)5 , (infeasible) Zvalue:67
+x2)16 , x3)19 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:64
+x2)16 , x4)18 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:63
+x3)19 , x4)18 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:66
+x1)12 , x2)16 , x3)19 , x4)18 , x5)15 , x6)9 , (infeasible) Zvalue:89
+x1)12 , x2)16 , x3)19 , x4)18 , x5)15 , x7)5 , (infeasible) Zvalue:85
+x1)12 , x2)16 , x3)19 , x4)18 , x6)9 , x7)5 , (infeasible) Zvalue:79
+x1)12 , x2)16 , x3)19 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:76
+x1)12 , x2)16 , x4)18 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:75
+x1)12 , x3)19 , x4)18 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:78
+x2)16 , x3)19 , x4)18 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:82
+x1)12 , x2)16 , x3)19 , x4)18 , x5)15 , x6)9 , x7)5 , (infeasible) Zvalue:94
